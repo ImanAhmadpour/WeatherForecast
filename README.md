@@ -190,167 +190,167 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
 6. Please describe yourself using JSON format.
 
 
-{
-  "person": {
-    "name": "Iman Ahmadpour",
-    "version": "2.0.beta",
-    "status": "actively_learning",
-    "current_quest": "AI Graduate Studies",
-    
-    "education": {
-      "undergraduate": {
-        "degree": "Computer Science",
-        "university": "Kharazmi University",
-        "status": "completed"
-      },
-      "graduate": {
-        "field": "Artificial Intelligence",
-        "university": "Islamic Azad University, Science And Research Branch",
-        "status": "in_progress",
-        "excitement_level": "very_high"
-      }
-    },
-    
-    "personality_traits": [
-      "intensely_curious",
-      "continuous_learner",
-      "story_driven"
-    ],
-    
-    "interests": {
-      "gaming": [
-        "narrative-driven games", 
-        "story-rich experiences"
-      ],
-      "reading": [
-        "philosophy", 
-        "fantasy"
-      ],
-      "tech": [
-        "AI/ML", 
-        "microservice architecture", 
-        "scalable systems"
-      ]
-    },
-    
-    "technical_stack": {
-      "core_expertise": {
-        "languages": [
-          "C#", 
-          "Python", 
-          "Go", 
-          "Java", 
-          "JavaScript"
-        ],
-        "frameworks": [
-          "ASP.NET Core", 
-          ".NET Framework"
-        ],
-        "architecture": [
-          "Clean Architecture", 
-          "Microservices", 
-          "RESTful APIs"
-        ]
-      },
-      
-      "backend_skills": {
-        "databases": [
-          "SQL Server", 
-          "MySQL", 
-          "PostgreSQL", 
-          "Redis"
-        ],
-        "messaging": [
-          "RabbitMQ", 
-          "Kafka"
-        ],
-        "real_time": [
-          "SignalR"
-        ],
-        "orm": [
-          "Entity Framework"
-        ],
-        "integrations": [
-          "Payment Gateways (PGW)", 
-          "SMS with Pattern", 
-          "Financial Transactions"
-        ]
-      },
-      
-      "quality_assurance": {
-        "testing": [
-          "Unit Tests", 
-          "Integration Tests", 
-          "Load Testing", 
-          "Stress Testing"
-        ],
-        "tools": [
-          "K6", 
-          "xUnit", 
-          "NUnit"
-        ]
-      },
-      
-      "devops": {
-        "containerization": [
-          "Docker"
-        ],
-        "ci_cd": [
-          "GitHub Actions (self-hosted & cloud runners)"
-        ],
-        "deployment": [
-          "automated pipelines"
-        ]
-      },
-      
-      "security": {
-        "authentication": [
-          "JWT"
-        ],
-        "authorization": [
-          "Role-Based Access Control (RBAC)"
-        ]
-      },
-      
-      "methodologies": [
-        "Agile", 
-        "Scrum", 
-        "Test-Driven Development"
-      ]
-    },
-    
-    "experience_highlights": [
-      {
-        "achievement": "Built accounting & treasury systems for industrial zones",
-        "impact": "high",
-        "complexity": "enterprise_level"
-      },
-      {
-        "achievement": "Migrating monolith to microservices architecture",
-        "status": "in_progress",
-        "technologies_used": [
-          "Docker", 
-          "RabbitMQ", 
-          "Kafka", 
-          "Redis"
-        ]
-      },
-      {
-        "achievement": "Implemented CI/CD pipelines with self-hosted runners",
-        "automation_level": "full"
-      }
-    ],
-    
-    "currently_exploring": [
-      "AI/ML integration with backend systems",
-      "Advanced distributed systems patterns",
-      "Scalability & performance optimization"
-    ],
-    
-    "contact": {
-      "status": "open_to_opportunities",
-      "preferred_role": "Backend Developer | AI Engineer",
-      "availability": "ready_to_contribute"
-    }
-  }
-}
+	{
+	"person": {
+		"name": "Iman Ahmadpour",
+		"version": "2.0.beta",
+		"status": "actively_learning",
+		"current_quest": "AI Graduate Studies",
+		
+		"education": {
+		"undergraduate": {
+			"degree": "Computer Science",
+			"university": "Kharazmi University",
+			"status": "completed"
+		},
+		"graduate": {
+			"field": "Artificial Intelligence",
+			"university": "Islamic Azad University, Science And Research Branch",
+			"status": "in_progress",
+			"excitement_level": "very_high"
+		}
+		},
+		
+		"personality_traits": [
+		"intensely_curious",
+		"continuous_learner",
+		"story_driven"
+		],
+		
+		"interests": {
+		"gaming": [
+			"narrative-driven games", 
+			"story-rich experiences"
+		],
+		"reading": [
+			"philosophy", 
+			"fantasy"
+		],
+		"tech": [
+			"AI/ML", 
+			"microservice architecture", 
+			"scalable systems"
+		]
+		},
+		
+		"technical_stack": {
+		"core_expertise": {
+			"languages": [
+			"C#", 
+			"Python", 
+			"Go", 
+			"Java", 
+			"JavaScript"
+			],
+			"frameworks": [
+			"ASP.NET Core", 
+			".NET Framework"
+			],
+			"architecture": [
+			"Clean Architecture", 
+			"Microservices", 
+			"RESTful APIs"
+			]
+		},
+		
+		"backend_skills": {
+			"databases": [
+			"SQL Server", 
+			"MySQL", 
+			"PostgreSQL", 
+			"Redis"
+			],
+			"messaging": [
+			"RabbitMQ", 
+			"Kafka"
+			],
+			"real_time": [
+			"SignalR"
+			],
+			"orm": [
+			"Entity Framework"
+			],
+			"integrations": [
+			"Payment Gateways (PGW)", 
+			"SMS with Pattern", 
+			"Financial Transactions"
+			]
+		},
+		
+		"quality_assurance": {
+			"testing": [
+			"Unit Tests", 
+			"Integration Tests", 
+			"Load Testing", 
+			"Stress Testing"
+			],
+			"tools": [
+			"K6", 
+			"xUnit", 
+			"NUnit"
+			]
+		},
+		
+		"devops": {
+			"containerization": [
+			"Docker"
+			],
+			"ci_cd": [
+			"GitHub Actions (self-hosted & cloud runners)"
+			],
+			"deployment": [
+			"automated pipelines"
+			]
+		},
+		
+		"security": {
+			"authentication": [
+			"JWT"
+			],
+			"authorization": [
+			"Role-Based Access Control (RBAC)"
+			]
+		},
+		
+		"methodologies": [
+			"Agile", 
+			"Scrum", 
+			"Test-Driven Development"
+		]
+		},
+		
+		"experience_highlights": [
+		{
+			"achievement": "Built accounting & treasury systems for industrial zones",
+			"impact": "high",
+			"complexity": "enterprise_level"
+		},
+		{
+			"achievement": "Migrating monolith to microservices architecture",
+			"status": "in_progress",
+			"technologies_used": [
+			"Docker", 
+			"RabbitMQ", 
+			"Kafka", 
+			"Redis"
+			]
+		},
+		{
+			"achievement": "Implemented CI/CD pipelines with self-hosted runners",
+			"automation_level": "full"
+		}
+		],
+		
+		"currently_exploring": [
+		"AI/ML integration with backend systems",
+		"Advanced distributed systems patterns",
+		"Scalability & performance optimization"
+		],
+		
+		"contact": {
+		"status": "open_to_opportunities",
+		"preferred_role": "Backend Developer | AI Engineer",
+		"availability": "ready_to_contribute"
+		}
+	}
+	}

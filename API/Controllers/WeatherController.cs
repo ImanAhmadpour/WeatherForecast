@@ -7,11 +7,11 @@ namespace API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class WheaterController : ControllerBase
+    public class WeatherController : ControllerBase
     {
         private readonly IWeatherService _weatherService;
 
-        public WheaterController(IWeatherService weatherService)
+        public WeatherController(IWeatherService weatherService)
         {
             _weatherService = weatherService;
         }

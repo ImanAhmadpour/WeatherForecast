@@ -188,6 +188,8 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
 	I chose the latter to demonstrate my standards
 	
 6. Please describe yourself using JSON format.
+
+
 {
   "person": {
     "name": "Iman Ahmadpour",

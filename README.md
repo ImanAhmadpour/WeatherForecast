@@ -190,9 +190,6 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
 6. Please describe yourself using JSON format.
 
 
-
-
-
 {
   "person": {
     "name": "Iman Ahmadpour",
@@ -208,7 +205,7 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
       },
       "graduate": {
         "field": "Artificial Intelligence",
-		"university": "Islamic Azad University, Science And Research Branch",
+        "university": "Islamic Azad University, Science And Research Branch",
         "status": "in_progress",
         "excitement_level": "very_high"
       }
@@ -221,43 +218,105 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
     ],
     
     "interests": {
-      "gaming": ["narrative-driven games", "story-rich experiences"],
-      "reading": ["philosophy", "fantasy"],
-      "tech": ["AI/ML", "microservice architecture", "scalable systems"]
+      "gaming": [
+        "narrative-driven games", 
+        "story-rich experiences"
+      ],
+      "reading": [
+        "philosophy", 
+        "fantasy"
+      ],
+      "tech": [
+        "AI/ML", 
+        "microservice architecture", 
+        "scalable systems"
+      ]
     },
     
     "technical_stack": {
       "core_expertise": {
-        "languages": ["C#", "Python", "Go", "Java", "JavaScript"],
-        "frameworks": ["ASP.NET Core", ".NET Framework"],
-        "architecture": ["Clean Architecture", "Microservices", "RESTful APIs"]
+        "languages": [
+          "C#", 
+          "Python", 
+          "Go", 
+          "Java", 
+          "JavaScript"
+        ],
+        "frameworks": [
+          "ASP.NET Core", 
+          ".NET Framework"
+        ],
+        "architecture": [
+          "Clean Architecture", 
+          "Microservices", 
+          "RESTful APIs"
+        ]
       },
       
       "backend_skills": {
-        "databases": ["SQL Server", "MySQL", "PostgreSQL", "Redis"],
-        "messaging": ["RabbitMQ", "Kafka"],
-        "real_time": ["SignalR"],
-        "orm": ["Entity Framework"],
-        "integrations": ["Payment Gateways (PGW)", "SMS with Pattern", "Financial Transactions"]
+        "databases": [
+          "SQL Server", 
+          "MySQL", 
+          "PostgreSQL", 
+          "Redis"
+        ],
+        "messaging": [
+          "RabbitMQ", 
+          "Kafka"
+        ],
+        "real_time": [
+          "SignalR"
+        ],
+        "orm": [
+          "Entity Framework"
+        ],
+        "integrations": [
+          "Payment Gateways (PGW)", 
+          "SMS with Pattern", 
+          "Financial Transactions"
+        ]
       },
       
       "quality_assurance": {
-        "testing": ["Unit Tests", "Integration Tests", "Load Testing", "Stress Testing"],
-        "tools": ["K6", "xUnit", "NUnit"]
+        "testing": [
+          "Unit Tests", 
+          "Integration Tests", 
+          "Load Testing", 
+          "Stress Testing"
+        ],
+        "tools": [
+          "K6", 
+          "xUnit", 
+          "NUnit"
+        ]
       },
       
       "devops": {
-        "containerization": ["Docker"],
-        "ci_cd": ["GitHub Actions (self-hosted & cloud runners)"],
-        "deployment": ["automated pipelines"]
+        "containerization": [
+          "Docker"
+        ],
+        "ci_cd": [
+          "GitHub Actions (self-hosted & cloud runners)"
+        ],
+        "deployment": [
+          "automated pipelines"
+        ]
       },
       
       "security": {
-        "authentication": ["JWT"],
-        "authorization": ["Role-Based Access Control (RBAC)"]
+        "authentication": [
+          "JWT"
+        ],
+        "authorization": [
+          "Role-Based Access Control (RBAC)"
+        ]
       },
       
-      "methodologies": ["Agile", "Scrum", "Test-Driven Development"]
+      "methodologies": [
+        "Agile", 
+        "Scrum", 
+        "Test-Driven Development"
+      ]
     },
     
     "experience_highlights": [
@@ -269,7 +328,12 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
       {
         "achievement": "Migrating monolith to microservices architecture",
         "status": "in_progress",
-        "technologies_used": ["Docker", "RabbitMQ", "Kafka", "Redis"]
+        "technologies_used": [
+          "Docker", 
+          "RabbitMQ", 
+          "Kafka", 
+          "Redis"
+        ]
       },
       {
         "achievement": "Implemented CI/CD pipelines with self-hosted runners",
@@ -290,3 +354,4 @@ It’s a fair but basic test that evaluates fundamentals—calling APIs, depende
     }
   }
 }
+
